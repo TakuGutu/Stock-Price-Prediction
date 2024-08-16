@@ -1,5 +1,5 @@
 # Stock-Market-Price-Prediction
-A machine learing model to predict days when a stock's price will go up.
+A machine learning model to predict days when a stock's price will go up.
 
 The goal is to predict future stock prices. On days that the stock price goes up, can it be predicted that it will go up.
 
